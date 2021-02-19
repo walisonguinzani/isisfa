@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Isis Figueiredo
+***
+
+- :rocket: _FullStack Web Developer Student at_ [Rumos Training | Galileu](https://www.galileu.pt)
+- :woman_technologist: _Skills: JavaScript, HTML, CSS;_
+- :computer: Tools: _Visual Studio Code, Git;_
+***
+- 📫 _How to reach me:_  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone/)](https://www.linkedin.com/in/isisfa/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malone.nykolle@gmail.com)](mailto:isis.falves@gmail.com)
