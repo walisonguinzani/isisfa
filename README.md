@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Isis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isis-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   <img align="center" alt="Isis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Isis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/a-plain.svg">
  
   <!--- <img align="center" alt="Isis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <!--- <img align="center" alt="Isis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/python-original.svg"> -->
